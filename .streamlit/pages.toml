@@ -1,0 +1,15 @@
+[[pages]]
+path = "Homepage.py"
+name = "Màn hình chính"
+
+[[pages]]
+path = "pages/Thoi-bui.py"
+name = "Thổi bụi"
+
+[[pages]]
+path = "pages/Chi-tiet.py"
+name = "Chi tiết dữ liệu"
+
+[[pages]]
+path = "pages/Du-doan.py"
+name = "Kết quả dự đoán"
